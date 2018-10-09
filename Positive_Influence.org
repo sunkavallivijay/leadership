@@ -2,11 +2,11 @@
  - Gain credibility i.e. Credibility = (Expertise + Relationship) x Track Record
  - Expertise is knowing your stuff, Relationship is maintaining positive long term relationship, Track Record is consistently maintaining the trust and relationship
 
-* Dale Carnegie's 6 principles:
+** Dale Carnegie's 6 principles:
 1. Show genuine interest; Its about the other person's interests and perspective, not your correctness
 2. Smile
 3. Listen to understand the other person
-4. Talk what the other person is interested in, not what you like
+4. *Talk what the other person is interested in, not what you like
 5. Use person's name
 6. Make them feel important
 
@@ -23,6 +23,24 @@ Refer: Book "The Speed of Trust" initial behaviors that build trust.
 
 ** GROW Model: ( Problem solving Or in any discussion )
  - Goals; Things to achieve
- - Reality; Current situation
- - Options; Solutions/Options at hand
- - Way forward; Final solution
+ - Reality; Think, question and analyze the Current situation
+ - Options; Put down Solutions/Options at hand
+ - Way forward; Finalize a solution
+
+- Pain & Gain:
+  Understand the pains of other person and help solve them; Understand the overall gains and try to make it win-win
+- A good communication strategy involves addressing both the `facts` and the `feelings`(of those involved)
+
+** Story telling:
+- A story is a fact, wrapped in an emotion, that compels us to take action. ■■ ELEMENTS OF PERSUASION
+
+- You tell story to:
+ + Connect with others
+ + Inspire
+ + Tech
+ + Challenge
+ 
+ - When creating a story: Start with end in mind, think about the core of your message- which the auidence should feel about, ensure there is some kind of conflict Or hardship narration in it
+ 
+ - When telling story: 1) Watch for length 2) Tell By memory 3) Include details that helps audience pain mental picture 4) Keep it simple
+ The story of French poet Jacques Prevert and begger. Refer: http://jackiebarrie.com/the-story-of-the-story-of-a-sign/
