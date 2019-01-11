@@ -41,3 +41,8 @@ Sidelining main point by bringing in irrelevant point as a distractor. E.g. Gove
 
 - False dichotomy Or black/white:  
 Arguer setups the situation as having either this option or that option only. E.g. saying "Today there is a public transportation strike so let's see if you can get pooled cab Or sharing autoricksaw". The intent of arguer appears as to save transportation cost here, while they could get a private cab or autorickshaw. stating 'pooled' or 'shared' they are consciously limiting the options. Another obvious example is, saying "This building is in bad shape, lets tear it down Or we will risk its occupant's life". Arguer doesn't bring the question "Can the building be repaired ? "
+
+### References:
+https://writingcenter.unc.edu/tips-and-tools/fallacies/
+https://yourlogicalfallacyis.com/tu-quoque
+https://www.webpages.uidaho.edu/eng207-td/Logic%20and%20Analysis/most_common_logical_fallacies.htm
