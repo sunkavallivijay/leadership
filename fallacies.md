@@ -6,7 +6,7 @@ Saying that, 'Wealthy people of arrogant'. Some might and some may not be arroga
   Saying, Drunk driving _could_ lead to death of innocent people so it must be punished with a death penality. Drunk driving _doesn't always_ lead to death. So, though it is a serious crime blindly stating 'death penality' is missing the point. The penality should be harsh but _may not_ be death penality.
   
 - Post hoc:  
- After this, so because of this. For e.g. Raise in Interest rates and raise in number of violent crimes happening in a given year. Saying here, that raise of interest rates lead to violent crimes is Post hoc fallacy because, the violence has increased _after_ interest rate increase.
+ After this, so because of this. For e.g. Raise in Interest rates and raise in number of violent crimes happening post increase in interest rates in a given year. Saying here, that raise of interest rates lead to violent crimes is Post hoc fallacy because of _happened after_, the violence has increased _only after_ interest rate increase.
  
 - Slippery slope:  
   Similar to post hoc but involves many events. For e.g. Saying that, use of animals for laboratory testing leads to loss of empathy in humans and this eventual loss will lead to violence.
